@@ -174,7 +174,7 @@ Visit `http://localhost:3000` to start chatting!
   <img src="https://avatars.githubusercontent.com/u/145671748?v=4" alt="Praveen Kavindu" width="150" style="border-radius: 50%">
   
   ### Praveen Kavindu
-  Software Engineering Undergraduate at NSBM Green University
+  Software Engineering Graduatde at Plymouth University UK
   
   [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/praveenkavindu)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/praveen-kavindu)
